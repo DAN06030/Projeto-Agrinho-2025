@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sistema de Irrigação Agrinho">
+    <title>Sistema de Irrigação Subterrânea - Agrinho</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        .content {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+        footer {
+            text-align: center;
+            padding: px;
+            background-color: #398b5e;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Sistema de Irrigação Subterrânea - Agrinho</h1>
+</header>
+
+<section>
+    <div class="content">
+        <h2>O que é o Sistema de Irrigação Subterrânea?</h2>
+        <p>O Sistema de Irrigação Subterrânea é uma solução eficiente e sustentável para a irrigação de plantações. Ele utiliza a água presente no subsolo, captada por poços artesianos ou bombas submersas, para irrigar as áreas agrícolas. Com isso, é possível otimizar o uso da água e reduzir os custos de irrigação em comparação aos sistemas tradicionais de irrigação por aspersão ou gotejamento.</p>
+        <img src="file:///tmp/guest-nolcme/Downloads/moiado%203.webp" alt="Sistema de Irrigação Subterrânea">
+    </div>
+</section>
+
+<section>
+    <div class="content">
+        <h2>Benefícios do Sistema de Irrigação Subterrânea</h2>
+        <ul>
+            <li><strong>Economia de água:</strong> O sistema utiliza a água que já está disponível no subsolo, evitando o desperdício e proporcionando uma irrigação mais eficiente.</li>
+            <li><strong>Redução de custos:</strong> A utilização de poços ou bombas submersas para captar água pode ser mais econômica a longo prazo em comparação com outros sistemas de irrigação.</li>
+            <li><strong>Sustentabilidade:</strong> A irrigação subterrânea é uma alternativa sustentável, pois contribui para o uso racional dos recursos hídricos.</li>
+            <li><strong>Aumento da produtividade:</strong> Com a irrigação eficiente, as plantas recebem a quantidade de água necessária de forma constante, o que favorece o crescimento saudável das culturas.</li>
+        </ul>
+        <img src="file:///tmp/guest-nolcme/Downloads/moiado%204.webp" alt="Benefícios do Sistema">
+    </div>
+</section>
+
+<section>
+    <div class="content">
+        <h2>Como Funciona?</h2>
+        <p>O sistema consiste em captar a água do subsolo por meio de um poço artesiano ou bomba submersa, que envia a água para um sistema de tubos enterrados nas raízes das plantas. A água é liberada de maneira controlada e constante, garantindo que as plantas recebam a quantidade exata de água necessária para seu desenvolvimento.</p>
+        <img src="file:///tmp/guest-nolcme/Downloads/moiado%205.webp" alt="Funcionamento do Sistema">
+    </div>
+</section>
+
+<footer>
+    <p> Feito por Danilo Siqueira - 3D Projeto Agrinho</p>
+</footer>
+
+</body>
+</html>
